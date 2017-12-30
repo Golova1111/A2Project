@@ -1,0 +1,8 @@
+I:\а2\A2_Console\A2_Console\bin\Release\A2_Console.exe.config
+I:\а2\A2_Console\A2_Console\bin\Release\A2_Console.exe
+I:\а2\A2_Console\A2_Console\bin\Release\A2_Console.pdb
+I:\а2\A2_Console\A2_Console\obj\Release\A2_Console.exe
+I:\а2\A2_Console\A2_Console\obj\Release\A2_Console.pdb
+I:\а2\A2_Console\A2_Console\obj\Release\Interop.MLApp.dll
+I:\а2\A2_Console\A2_Console\obj\Release\A2_Console.csproj.ResolveComReference.cache
+I:\а2\A2_Console\A2_Console\obj\Release\A2_Console.csprojResolveAssemblyReference.cache
