@@ -1,0 +1,47 @@
+﻿<Window x:Class="A2_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A2_Project"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="668" Width="586">
+
+
+    <Grid Margin="0,-1,0,1">
+        <TextBox x:Name="String1TextBox" HorizontalAlignment="Left" Height="23" Margin="119,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="252" Text="депозитор" FontSize="14" FontFamily="Qanelas"/>
+        <TextBox x:Name="String2TextBox" HorizontalAlignment="Left" Height="23" Margin="119,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="252" Text="реализоваться" FontSize="14" FontFamily="Qanelas"/>
+        <Label x:Name="label" Content="Редакционное расстояние Дамерау-Левенштейна" HorizontalAlignment="Left" Margin="37,29,0,0" VerticalAlignment="Top" Width="485" FontSize="18" FontFamily="Qanelas"/>
+        <Button x:Name="Calculate" Content="Рассчитать" HorizontalAlignment="Left" Margin="395,162,0,0" VerticalAlignment="Top" Width="149" Click="Calculate_Click" Height="25" Background="#FFFFF300" FontFamily="Qanelas SemiBold" FontSize="14"/>
+        <Label x:Name="LevenshteinAnswer" Content="=-number-=" HorizontalAlignment="Left" Margin="43,209,0,0" VerticalAlignment="Top" FontFamily="Qanelas" FontSize="16" Panel.ZIndex="2" Visibility="Hidden"/>
+
+
+        <ScrollViewer x:Name="scroll" Height="100" HorizontalAlignment="Left" Margin="37,517,0,21" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Width="474" Background="#FFE6E6E6" Visibility="Hidden">
+            <Label x:Name="AnswerLabel"  VerticalAlignment="Top" Width="Auto" Height="Auto" Content="-=answer=-" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Auto" FontFamily="Qanelas Thin" RenderTransformOrigin="0.461,0.583" Visibility="Hidden"/>
+        </ScrollViewer>
+        <Label x:Name="label_Copy" Content="Строка 1:" HorizontalAlignment="Left" Margin="42,84,0,0" VerticalAlignment="Top" Width="77" FontSize="14" FontFamily="Qanelas Light"/>
+        <Label x:Name="label_Copy1" Content="Строка 2:" HorizontalAlignment="Left" Margin="42,118,0,0" VerticalAlignment="Top" Width="77" FontSize="14" FontFamily="Qanelas Light"/>
+        <Button x:Name="SettingButton" Content="Настройки" HorizontalAlignment="Left" Margin="37,162,0,0" VerticalAlignment="Top" Width="149" Height="25" FontFamily="Qanelas" Foreground="#FF040404" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="14" Click="SettingButton_Click"/>
+        <Label x:Name="LevenshteinAnswer_Copy" Content="Подробный расчет:" HorizontalAlignment="Left" Margin="37,487,0,0" VerticalAlignment="Top" FontFamily="Qanelas" FontSize="14" Visibility="Hidden"/>
+        <Label x:Name="VLabel1" Content="Визуализация:" HorizontalAlignment="Left" Margin="47,285,0,0" VerticalAlignment="Top" FontFamily="Qanelas Black Italic" FontSize="16" Visibility="Hidden"/>
+        <Label x:Name="string1current" Content="111111111111111111111111111111" HorizontalAlignment="Left" Margin="47,327,0,0" VerticalAlignment="Top" FontFamily="Qanelas SemiBold" FontSize="22" Width="492" RenderTransformOrigin="0.5,0.5" Visibility="Hidden"/>
+        <Label x:Name="string2current" Content="111111111111111111111111111111" HorizontalAlignment="Left" Margin="47,367,0,0" VerticalAlignment="Top" FontFamily="Qanelas SemiBold" FontSize="22" Width="492" RenderTransformOrigin="0.5,0.5" Visibility="Hidden"/>
+        <Button x:Name="StepBack" Content="&lt; &lt;" HorizontalAlignment="Left" Margin="47,427,0,0" VerticalAlignment="Top" Width="59" Height="25" FontFamily="Qanelas SemiBold" Foreground="#FF040404" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Click="StepBack_Click" Visibility="Hidden"/>
+        <Button x:Name="StepFront" Content="&gt; &gt;" HorizontalAlignment="Left" Margin="113,427,0,0" VerticalAlignment="Top" Width="59" Height="25" FontFamily="Qanelas SemiBold" Foreground="#FF040404" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Click="StepFront_Click" Visibility="Hidden"/>
+        <Label x:Name="VLabel2" Content="Шаг" HorizontalAlignment="Left" Margin="434,285,0,0" VerticalAlignment="Top" FontFamily="Qanelas Black Italic" FontSize="16" Visibility="Hidden"/>
+        <Label x:Name="currstep" Content="10" HorizontalAlignment="Left" Margin="472,285,0,0" VerticalAlignment="Top" FontFamily="Qanelas Black Italic" FontSize="16" Visibility="Hidden"/>
+        <Label x:Name="answerstep" Content="10" HorizontalAlignment="Left" Margin="508,285,0,0" VerticalAlignment="Top" FontFamily="Qanelas Black Italic" FontSize="16" Visibility="Hidden"/>
+        <Label x:Name="VLabel3" Content="/" HorizontalAlignment="Left" Margin="493,285,0,0" VerticalAlignment="Top" FontFamily="Qanelas Black Italic" FontSize="16" Visibility="Hidden"/>
+        <Rectangle x:Name="rect1" Fill="#FFABFBFF" HorizontalAlignment="Left" Height="68" Margin="36,203,0,0" Stroke="Black" VerticalAlignment="Top" Width="508" Visibility="Hidden"/>
+        <Rectangle x:Name="rect2" Fill="#FFFFFCC5" HorizontalAlignment="Left" Height="193" Margin="37,276,0,0" Stroke="Black" VerticalAlignment="Top" Width="507" Panel.ZIndex="-1" Visibility="Hidden"/>
+        <Button x:Name="FromFile1" Content="Из файла" HorizontalAlignment="Left" Margin="377,84,0,0" VerticalAlignment="Top" Width="81" Height="25" FontFamily="Qanelas" Foreground="#FF040404" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="14" Click="FromFile1_Click"/>
+        <Button x:Name="FromFile2" Content="Из файла" HorizontalAlignment="Left" Margin="377,118,0,0" VerticalAlignment="Top" Width="81" Height="25" FontFamily="Qanelas" Foreground="#FF040404" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="14" Click="FromFile1_Click"/>
+        <Button x:Name="Dictionary" Content="Словарь" HorizontalAlignment="Left" Margin="463,84,0,0" VerticalAlignment="Top" Width="81" Height="59" FontFamily="Qanelas" Foreground="#FF040404" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="14" Click="Dictionary1_Click"/>
+        <Button x:Name="MatrixOpen" Content="Матрица" HorizontalAlignment="Left" Margin="434,427,0,0" VerticalAlignment="Top" Width="88" Height="25" FontFamily="Qanelas SemiBold" Foreground="#FF040404" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Click="MatrixOpen_Click" Visibility="Hidden"/>
+        <Label x:Name="VErrorLabel" Content="-= Визуализация невозможна =-" HorizontalAlignment="Left" Margin="172,347,0,0" VerticalAlignment="Top" FontFamily="Qanelas Light" FontSize="16" Width="240" RenderTransformOrigin="0.5,0.5" Height="26" Visibility="Hidden"/>
+        <Label x:Name="LevenshteinCriteria" Content="=-criteria-=" HorizontalAlignment="Left" Margin="43,235,0,0" VerticalAlignment="Top" FontFamily="Qanelas" FontSize="16" Panel.ZIndex="2" Visibility="Hidden"/>
+    </Grid>
+
+
+
+</Window>

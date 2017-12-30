@@ -1,0 +1,72 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\bin\Debug\A2_Project.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\bin\Debug\A2_Project.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\bin\Debug\A2_Project.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\App.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\A2_Project_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\A2_Project_MarkupCompile.lref
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\A2_Project.g.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\A2_Project.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\A2_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\A2_Project.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\A2_Project.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\A2_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\Matrix.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\Matrix.baml
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\Setting.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\A2_Project\A2_Project\obj\Debug\Setting.baml
+I:\а2\A2_Project\A2_Project\bin\Debug\A2_Project.exe.config
+I:\а2\A2_Project\A2_Project\obj\Debug\A2_Project.exe
+I:\а2\A2_Project\A2_Project\obj\Debug\A2_Project.pdb
+I:\а2\A2_Project\A2_Project\bin\Debug\A2_Project.exe
+I:\а2\A2_Project\A2_Project\bin\Debug\A2_Project.pdb
+I:\а2\A2_Project\A2_Project\obj\Debug\A2_Project.csprojResolveAssemblyReference.cache
+I:\а2\A2_Project\A2_Project\obj\Debug\MainWindow.g.cs
+I:\а2\A2_Project\A2_Project\obj\Debug\Matrix.g.cs
+I:\а2\A2_Project\A2_Project\obj\Debug\Setting.g.cs
+I:\а2\A2_Project\A2_Project\obj\Debug\App.g.cs
+I:\а2\A2_Project\A2_Project\obj\Debug\A2_Project_MarkupCompile.cache
+I:\а2\A2_Project\A2_Project\obj\Debug\A2_Project_MarkupCompile.lref
+I:\а2\A2_Project\A2_Project\obj\Debug\MainWindow.baml
+I:\а2\A2_Project\A2_Project\obj\Debug\Matrix.baml
+I:\а2\A2_Project\A2_Project\obj\Debug\Setting.baml
+I:\а2\A2_Project\A2_Project\obj\Debug\A2_Project.g.resources
+I:\а2\A2_Project\A2_Project\obj\Debug\A2_Project.Properties.Resources.resources
+I:\а2\A2_Project\A2_Project\obj\Debug\A2_Project.csproj.GenerateResource.Cache
+i:\а2\A2_Project - копия\A2_Project\bin\Debug\A2_Project.exe.config
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\A2_Project.exe
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\A2_Project.pdb
+i:\а2\A2_Project - копия\A2_Project\bin\Debug\A2_Project.exe
+i:\а2\A2_Project - копия\A2_Project\bin\Debug\A2_Project.pdb
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\A2_Project.csprojResolveAssemblyReference.cache
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\MainWindow.g.cs
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\Matrix.g.cs
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\Setting.g.cs
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\App.g.cs
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\A2_Project_MarkupCompile.cache
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\A2_Project_MarkupCompile.lref
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\MainWindow.baml
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\Matrix.baml
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\Setting.baml
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\A2_Project.g.resources
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\A2_Project.Properties.Resources.resources
+i:\а2\A2_Project - копия\A2_Project\obj\Debug\A2_Project.csproj.GenerateResource.Cache
+i:\а2\A2_Visual\A2_Project\bin\Debug\A2_Project.exe.config
+i:\а2\A2_Visual\A2_Project\obj\Debug\A2_Project.exe
+i:\а2\A2_Visual\A2_Project\obj\Debug\A2_Project.pdb
+i:\а2\A2_Visual\A2_Project\bin\Debug\A2_Project.exe
+i:\а2\A2_Visual\A2_Project\bin\Debug\A2_Project.pdb
+i:\а2\A2_Visual\A2_Project\obj\Debug\A2_Project.csprojResolveAssemblyReference.cache
+i:\а2\A2_Visual\A2_Project\obj\Debug\MainWindow.g.cs
+i:\а2\A2_Visual\A2_Project\obj\Debug\Matrix.g.cs
+i:\а2\A2_Visual\A2_Project\obj\Debug\Setting.g.cs
+i:\а2\A2_Visual\A2_Project\obj\Debug\App.g.cs
+i:\а2\A2_Visual\A2_Project\obj\Debug\A2_Project_MarkupCompile.cache
+i:\а2\A2_Visual\A2_Project\obj\Debug\A2_Project_MarkupCompile.lref
+i:\а2\A2_Visual\A2_Project\obj\Debug\MainWindow.baml
+i:\а2\A2_Visual\A2_Project\obj\Debug\Matrix.baml
+i:\а2\A2_Visual\A2_Project\obj\Debug\Setting.baml
+i:\а2\A2_Visual\A2_Project\obj\Debug\A2_Project.g.resources
+i:\а2\A2_Visual\A2_Project\obj\Debug\A2_Project.Properties.Resources.resources
+i:\а2\A2_Visual\A2_Project\obj\Debug\A2_Project.csproj.GenerateResource.Cache
