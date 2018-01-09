@@ -1,0 +1,17 @@
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\bin\Release\A2_Project.exe.config
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\bin\Release\A2_Project.exe
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\bin\Release\A2_Project.pdb
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\MainWindow.g.cs
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\Matrix.g.cs
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\Setting.g.cs
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\App.g.cs
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\A2_Project_MarkupCompile.cache
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\A2_Project_MarkupCompile.lref
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\MainWindow.baml
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\Matrix.baml
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\Setting.baml
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\A2_Project.g.resources
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\A2_Project.Properties.Resources.resources
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\A2_Project.csproj.GenerateResource.Cache
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\A2_Project.exe
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Release\A2_Project.pdb
