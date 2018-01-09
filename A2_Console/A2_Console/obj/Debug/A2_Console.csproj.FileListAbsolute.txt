@@ -6,3 +6,10 @@ I:\а2\A2_Console\A2_Console\obj\Debug\A2_Console.exe
 I:\а2\A2_Console\A2_Console\obj\Debug\A2_Console.pdb
 I:\а2\A2_Console\A2_Console\obj\Debug\Interop.MLApp.dll
 I:\а2\A2_Console\A2_Console\obj\Debug\A2_Console.csproj.ResolveComReference.cache
+C:\Users\User\Source\Repos\A2Project\A2_Console\A2_Console\bin\Debug\A2_Console.exe.config
+C:\Users\User\Source\Repos\A2Project\A2_Console\A2_Console\obj\Debug\A2_Console.csproj.ResolveComReference.cache
+C:\Users\User\Source\Repos\A2Project\A2_Console\A2_Console\obj\Debug\A2_Console.exe
+C:\Users\User\Source\Repos\A2Project\A2_Console\A2_Console\obj\Debug\A2_Console.pdb
+C:\Users\User\Source\Repos\A2Project\A2_Console\A2_Console\obj\Debug\A2_Console.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\A2Project\A2_Console\A2_Console\bin\Debug\A2_Console.exe
+C:\Users\User\Source\Repos\A2Project\A2_Console\A2_Console\bin\Debug\A2_Console.pdb

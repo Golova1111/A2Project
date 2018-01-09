@@ -125,7 +125,7 @@ namespace A2_Console
                         int[,] AnswerMatrix;
                         int ld_Dist;
 
-                        MLApp.MLApp matlab;
+                        //MLApp.MLApp matlab;
 
                         try
                         {
@@ -170,7 +170,7 @@ namespace A2_Console
                             array1 += "];";
                             array2 += "]";
 
-                            matlab = new MLApp.MLApp();
+                            /*matlab = new MLApp.MLApp();
 
                             matlab.Execute(array1);
                             matlab.Execute(array2);
@@ -179,7 +179,7 @@ namespace A2_Console
                             matlab.Execute("plot(X,Y,'bx','Color',[.1 .4 .1])");
                             matlab.Execute("title('Затраты памяти');");
                             matlab.Execute("xlabel('Кол-во символов, n*m');");
-                            matlab.Execute("ylabel('Затраченная память, Кб');");
+                            matlab.Execute("ylabel('Затраченная память, Кб');");*/
                         }
                         catch (Exception ex)
                         {
@@ -240,7 +240,7 @@ namespace A2_Console
                             array1 += "];";
                             array2 += "]";
 
-                            matlab = new MLApp.MLApp();
+                            /*matlab = new MLApp.MLApp();
 
                             matlab.Execute(array1);
                             matlab.Execute(array2);
@@ -249,7 +249,7 @@ namespace A2_Console
                             matlab.Execute("plot(X,Y,'bx','Color',[.1 .4 .1])");
                             matlab.Execute("title('Затраты времени');");
                             matlab.Execute("xlabel('Кол-во символов, n*m');");
-                            matlab.Execute("ylabel('Затраченное время, мс');");
+                            matlab.Execute("ylabel('Затраченное время, мс');");*/
                         }
                         catch (Exception ex)
                         {
@@ -337,7 +337,7 @@ namespace A2_Console
 
             // База рекурсии
 
-            int INF = 9999;
+            int INF = 99999999;
             AnswerMatrix[0, 0] = INF;
 
             for (int i = 1; i <= str1.Length + 1; i++)
@@ -378,7 +378,7 @@ namespace A2_Console
                         );
 
 
-                        temp_transf = 9999;
+                        temp_transf = INF;
                         if (SecondWord.ContainsKey(str1[i - 1]) && FirstWord.ContainsKey(str2[j - 1]))
                         {
                             i_sh = FirstWord[str2[j - 1]];
