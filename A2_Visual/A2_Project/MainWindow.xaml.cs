@@ -112,7 +112,11 @@ namespace A2_Project
 
             //Заполнение матрицы ответов
             if (DontCheckRegisr)
-                answer = Levenshtein(AnswerMatrix, str1.ToUpper(), str2.ToUpper());
+            {
+                answer = Levenshtein(AnswerMatrix, str1.ToLower(), str2.ToLower());
+                str1 = str1.ToLower();
+                str2 = str2.ToLower();
+            }
             else
                 answer = Levenshtein(AnswerMatrix, str1, str2);
 

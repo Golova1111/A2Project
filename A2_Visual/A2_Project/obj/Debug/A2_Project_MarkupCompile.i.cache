@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-i:\а2\A2_Visual\A2_Project\obj\Debug\
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\obj\Debug\
 A2_Project
 none
 false
 DEBUG;TRACE
-i:\а2\A2_Visual\A2_Project\App.xaml
+C:\Users\User\Source\Repos\A2Project\A2_Visual\A2_Project\App.xaml
 3-474860562
 
 11-1635713994
-13738642453
+13-1643599102
 MainWindow.xaml;Matrix.xaml;Setting.xaml;
 
 True
